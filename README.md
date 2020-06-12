@@ -1,0 +1,2 @@
+# MulticastDelegateDemo
+C# MulticastDelegate Demo
